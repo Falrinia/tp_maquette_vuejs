@@ -1,0 +1,14 @@
+h3 {
+    text-align: center;
+}
+
+form {
+    height: 45%;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+.btn-primary {
+    background-color: black;
+    border: none;
+}

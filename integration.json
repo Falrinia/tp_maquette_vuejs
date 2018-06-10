@@ -1,0 +1,78 @@
+{
+    "status": "ok",
+    "data":
+      {
+          "types": [
+              {
+                  "id": 1,
+                  "name": "promotion 1"
+              },
+              {
+                  "id": 2,
+                  "name": "promotion 2"
+              },
+              {
+                  "id": 3,
+                  "name": "promotion 3"
+              }
+          ],
+          "student": [
+              {
+                  "id": 1,
+                  "type": 1,
+                  "lastname": "Mathieu",
+                  "name": "Alexandre",
+                  "sex": 0
+                  
+              },
+              {
+                  "id": 1,
+                  "type": 1,
+                  "lastname": "Lhermitte",
+                  "name": "Anthony",
+                  "sex": 0
+                  
+              },
+              {
+                  "id": 25,
+                  "type": 2,
+                  "lastname": "Bani",
+                  "name": "Alicia",
+                  "sex": 1
+                
+              },
+              {
+                  "id": 29,
+                  "type": 2,
+                  "lastname": "Leunens",
+                  "name": "Evelyne",
+                  "sex": 1
+                 
+              },
+              {
+                "id": 38,
+                "type": 2,
+                "lastname": "Leroux",
+                "name": "Quentin",
+                "sex": 0
+               
+            },
+            {
+                "id": 63,
+                "type": 3,
+                "lastname": "Dubourdieu",
+                "name": "Nathan",
+                "sex": 0
+               
+            },
+            {
+                "id": 29,
+                "type": 2,
+                "lastname": "Molinaro",
+                "name": "Karine",
+                "sex": 1
+               
+            }
+          ]
+      }
+  }
